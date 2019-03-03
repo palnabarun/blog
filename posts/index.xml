@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on e^iπ &#43; 1 = 0</title>
+    <link>https://blog.nabarun.in/posts/</link>
+    <description>Recent content in Posts on e^iπ &#43; 1 = 0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2018-19 &lt;a href=&#34;https://www.nabarun.in/&#34;&gt;Nabarun Pal&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 03 Mar 2019 22:52:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.nabarun.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.nabarun.in/posts/hello-world/</link>
+      <pubDate>Sun, 03 Mar 2019 22:52:20 +0530</pubDate>
+      
+      <guid>https://blog.nabarun.in/posts/hello-world/</guid>
+      <description> Hello World!! import this  </description>
+    </item>
+    
+  </channel>
+</rss>
