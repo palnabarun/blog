@@ -16,3 +16,7 @@ params:
       link: https://github.com/palnabarun
     - name: LinkedIn
       link: https://linkedin.com/in/palnabarun
+markup:
+  highlight:
+    style: solarized-light
+    lineNos: true
