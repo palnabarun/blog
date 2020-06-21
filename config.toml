@@ -1,0 +1,26 @@
+baseURL = "https://blog.naba.run"
+languageCode = "en-us"
+title = "Nabarun Pal"
+theme = "yinyang"
+enableEmoji = "true"
+
+[params]
+headTitle = "Nabarun Pal"
+extraHead = ""
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+name = "About"
+link = "https://naba.run"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/palnabarun"
+
+[[params.socials]]
+name = "LinkedIn"
+link = "https://linkedin.com/in/palnabarun"
