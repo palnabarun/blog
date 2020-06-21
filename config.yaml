@@ -1,0 +1,18 @@
+baseURL: https://blog.naba.run
+languageCode: en-us
+title: Nabarun Pal
+theme: yinyang
+enableEmoji: true
+params:
+  headTitle: Nabarun Pal
+  mainSections:
+    - posts
+  socials:
+    - name: RSS
+      link: /index.xml
+    - name: About
+      link: https://naba.run
+    - name: Github
+      link: https://github.com/palnabarun
+    - name: LinkedIn
+      link: https://linkedin.com/in/palnabarun
