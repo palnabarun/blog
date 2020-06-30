@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2020-06-20
-categories: ["random"]
+tags: ["random"]
 ---
 
 It has been some time (a long time, in reality :weary:) that I wanted to start writing blogs about things that I learn and implement.
