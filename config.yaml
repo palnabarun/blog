@@ -8,6 +8,7 @@ pygmentsUseClasses: true
 params:
   headTitle: Nabarun Pal
   postFooterContent: "Have any feedback? Please reach out to me at &ldquo;hey [at] naba [dot] run&rdquo;"
+  copyrightContent: "&copy; <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>CC-BY-NC-SA</a> Nabarun Pal 2020"
   mainSections:
     - posts
   socials:
