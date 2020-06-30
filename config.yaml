@@ -11,6 +11,8 @@ params:
   mainSections:
     - posts
   socials:
+    - name: Tags
+      link: /tags/
     - name: RSS
       link: /index.xml
     - name: About
