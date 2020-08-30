@@ -16,7 +16,7 @@ It helps you to anonymize traffic, block trackers and, prevent surveillance amon
 
 Tor is available in the Arch package repository and can be simply installed by:
 
-```shell
+```text
 # Install Tor
 $ sudo pacman -S tor
 ...
@@ -40,7 +40,7 @@ We will be building a very lightweight Docker image to reduce footprint.
 
 Let's start with the Tor configuration,
 
-```rc
+```text
 SocksPort 0.0.0.0:9050
 ```
 
@@ -70,7 +70,7 @@ CMD ["-f", "/etc/tor/torrc"]
 
 Let's build the image now.
 
-```shell
+```text
 $ docker build -t palnabarun/tor .
 Sending build context to Docker daemon  67.58kB
 Step 1/6 : FROM alpine:latest
@@ -98,7 +98,7 @@ Successfully tagged palnabarun/tor:latest
 
 You might also be wondering what is the image size?
 
-```shell
+```text
 $ docker image ls | grep palnabarun/tor
 palnabarun/tor  latest  13c889f5b018    About a minute ago 21.1MB
 ```
@@ -107,7 +107,7 @@ palnabarun/tor  latest  13c889f5b018    About a minute ago 21.1MB
 
 Let's run the proxy.
 
-```shell
+```text
 $ docker run \
     --rm \
     --detach \
@@ -130,14 +130,14 @@ Let's test whether the proxy is working correctly by some simple `curl` calls.
 
 The request below is not going through the proxy and hence would show your ISP provided IP address.
 
-```shell
+```text
 $ curl https://check.torproject.org/api/ip
 {"IsTor":false,"IP":"49.30.XX.XX"}
 ```
 
 Now, if we specify the Tor proxy when making the request, the IP address would be different.
 
-```shell
+```text
 $ curl --socks5 127.0.0.1:9050 https://check.torproject.org/api/ip
 {"IsTor":true,"IP":"185.220.XXX.XXX"}
 ```

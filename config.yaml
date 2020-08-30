@@ -3,8 +3,6 @@ languageCode: en-us
 title: Nabarun Pal
 theme: yinyang
 enableEmoji: true
-pygmentsCodeFences: true
-pygmentsUseClasses: true
 params:
   headTitle: Nabarun Pal
   postFooterContent: "Have any feedback? Please reach out to me at &ldquo;hey [at] naba [dot] run&rdquo;"
@@ -22,3 +20,7 @@ params:
       link: https://github.com/palnabarun
     - name: LinkedIn
       link: https://linkedin.com/in/palnabarun
+markup:
+  highlight:
+    guessSyntax: false
+    style: "monokai"
