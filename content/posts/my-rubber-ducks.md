@@ -1,15 +1,19 @@
 ---
 title: "My Rubber Ducks"
 date: 2020-08-22T23:25:06+05:30
+tags: ["abstract", "thoughts"]
 ---
 
 There are times when I find myself stuck when solving any problem. This deadlock can arise due to several factors. Sometimes I need a new perspective of the problem. Sometimes I just need to go through my approach with a fresh mind.
 
-I can ping my colleagues to get a new perspectives or explain them what I am trying to achieve. But, not always can I find someone to listen to me since everyone is busy with their work.
+I can ping my colleagues to get new perspectives or explain to them what I am trying to achieve. But, not always can I find someone to listen to me since everyone is busy with their work.
 
-What I do in those situations is either 1. write down my approach on a piece of paper in the simplest terms or 2. talk to my **Rubber Ducks** about the approach assuming that the ducks have ZERO knowledge about what I am doing.
+What I do in those situations is either
 
-I learnt about the **Rubber Duck** debugging paradigm when reading [The Pragmatic Programmer][tpp] by Andrew Hunt and David Thomas. It is a gem of a book. I feel every software engineers looking to excel in their art should read the book. They discuss this method in the Debugging chapter of the book. The idea to find the cause of a problem by explaining it in very simple terms to someone else. The other person listening to you shouldn't speak a word and should just nod to what you are saying. This simple exercise of explaining your approach in very well defined and atomic steps can give you new insights to your problem.
+1. write down my approach on a piece of paper in the simplest terms, or
+2. talk to my **Rubber Ducks** about the approach assuming that the ducks have ZERO knowledge about what I am doing.
+
+I learned about the **Rubber Duck** debugging paradigm when reading [The Pragmatic Programmer][tpp] by Andrew Hunt and David Thomas. It is a gem of a book. I feel every software engineer looking to excel in their art should read the book. They discuss this method in the Debugging chapter of the book. The idea to find the cause of a problem by explaining it in very simple terms to someone else. The other person listening to you shouldn't speak a word and should just nod to what you are saying. This simple exercise of explaining your approach in very well defined and atomic steps can give you new insights to your problem.
 
 Obviously you can't have someone with you all the time to just listen to you. And here comes the importance of inanimate objects that can't speak. They are the ideal ones that you can explain your problem to. There are some positive effects like they won't ever judge you, they are always with you no matter what happens. Having said all that, I want to introduce you to my rubber ducks:
 
