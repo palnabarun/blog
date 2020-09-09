@@ -1,26 +1,58 @@
 baseURL: https://blog.naba.run
 languageCode: en-us
 title: Nabarun Pal
-theme: yinyang
+theme: vitae
+copyright: © CC-BY-NC-SA Nabarun Pal
+pygmentsstyle: monokai
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
 enableEmoji: true
 params:
-  headTitle: Nabarun Pal
-  postFooterContent: "Have any feedback? Please reach out to me at &ldquo;hey [at] naba [dot] run&rdquo;"
-  copyrightContent: "&copy; <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>CC-BY-NC-SA</a> Nabarun Pal 2020"
+  description: A pragmatic engineer who is constantly learning
+  subtitle: A pragmatic engineer who is constantly learning
+  keywords:
+    - "blog"
+    - "technology"
+    - "open-source"
+    - "opsec"
+    - "security"
+    - "infrastructure"
+  math: true
   mainSections:
     - posts
-  socials:
-    - name: Tags
-      link: /tags/
-    - name: RSS
-      link: /index.xml
-    - name: About
-      link: https://naba.run
+  social:
     - name: Github
-      link: https://github.com/palnabarun
-    - name: LinkedIn
-      link: https://linkedin.com/in/palnabarun
-markup:
-  highlight:
-    guessSyntax: false
-    style: "monokai"
+      icon: fab fa-github
+      url: https://github.com/palnabarun
+    - name: Email
+      icon: fas fa-envelope
+      url: mailto:hey@naba.run
+    # - name: Twitter
+    #   icon: fas fa-twitter
+    #   url: https://twitter.com/theonlynabarun
+    # - name: LinkedIn
+    #   icon: fas fa-linkedin
+    #   url: https://linkedin.com/palnabarun
+    - name: RSS
+      icon: fas fa-rss
+      url: /index.xml
+taxonomies:
+  tags: tags
+  series: series
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: All Posts
+      url: /posts/
+      weight: 2
+    - name: About
+      url: https://naba.run
+      weight: 3
+    - name: Contact
+      url: /contact/
+      weight: 4
+    - name: Tags
+      url: /tags/
+      weight: 5
