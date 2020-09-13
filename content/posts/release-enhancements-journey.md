@@ -38,7 +38,7 @@ The role involved understanding each outstanding KEP, pinging respective OWNERS 
 
 - Knowledge of what is involved when adding a feature into Kubernetes!!!
 - Reading through an enourmous amount of KEPs, I got to know about the features themselves
-- Communication effectively with others and breaking the ice
+- Communicating effectively with others and breaking the ice
 - A lot of GitHub triage skills and tricks
 - Tricks of wrangling data on a spreadsheet :wink:
 
@@ -67,7 +67,7 @@ Aaaaaand after a splendid 1.18, [Jeremy][jeremy] nominated me to be the Enhancem
 
 [![1.19 Nomination](/images/rt/1.19-nomination.png)](https://github.com/kubernetes/sig-release/issues/1031)
 
-This release cycle eventually became special in many ways. We were hit by a deadly pandemic which changed a lot of things on our life. The release cycle was extended to 5 months instead of the usual 12 weeks cadence. The pandemic and various other factors shaved off quite a bit of the usual bandwidth the community had previously. These times were very crucial for the whole world and the team didn't want to put undue additional pressure on the amazing contributors that we have.
+This release cycle eventually became special in many ways. We were hit by a deadly pandemic which changed a lot of things in our life. The release cycle was extended to 5 months instead of the usual 12 weeks cadence. The pandemic and various other factors shaved off quite a bit of the usual bandwidth the community had previously. These times were very crucial for the whole world and the team didn't want to put undue additional pressure on the amazing contributors that we have.
 
 The shadows that I selected for the Enhancements Team spanned 12 and a half hours of timezone and created an amazing round the earth coverage for the team. This meant no team member had to toil in their odd times of the day. I take this opportunity to **thank again all the enhancements shadows - [Kirsten][kirsten], [Harsha][harsha], [Miroslaw][miroslaw] and [John][john] for their efforts even in such hard times**.
 
