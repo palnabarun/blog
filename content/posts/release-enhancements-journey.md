@@ -108,6 +108,11 @@ Feel free to contact me on Twitter at [@theonlynabarun](https://twitter.com/theo
 - [Shadow overview][shadow]
 - [Role Handbooks][rt-handbooks]
 
+---
+
+### Update since the original version
+
+I wrote this article over 6 months back and since then led the [Kubernetes 1.21 Release Team][1.21-team]. I plan to write about my experience leading the Release Team in the near future. Do subscribe to the [RSS feed][rss] for updates.
 
 [k/enhancements]: https://github.com/kubernetes/enhancements
 [rt-handbooks]: https://github.com/kubernetes/sig-release/tree/master/release-team/role-handbooks
@@ -129,8 +134,10 @@ Feel free to contact me on Twitter at [@theonlynabarun](https://twitter.com/theo
 [1.17-team]:https://github.com/kubernetes/sig-release/blob/master/releases/release-1.17/release_team.md
 [1.18-team]:https://github.com/kubernetes/sig-release/blob/master/releases/release-1.18/release_team.md
 [1.19-team]: https://github.com/kubernetes/sig-release/blob/master/releases/release-1.19/release_team.md
+[1.21-team]: https://github.com/kubernetes/sig-release/blob/master/releases/release-1.21/release-team.md
 [shadow]: https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md
 [anna]: https://twitter.com/antheajung
 [kristin]: https://twitter.com/KristinCMartin
 [heba]: https://twitter.com/helayoty
 [rt-selection]: https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md
+[rss]: https://blog.naba.run/index.xml
