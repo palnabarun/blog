@@ -48,10 +48,10 @@ menu:
       url: /posts/
       weight: 2
     - name: About
-      url: https://naba.run
+      url: https://nabarun.dev
       weight: 3
     - name: Contact
-      url: /contact/
+      url: https://nabarun.dev/contact
       weight: 4
     - name: Tags
       url: /tags/
