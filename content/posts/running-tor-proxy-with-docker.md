@@ -2,6 +2,7 @@
 title: "Running Tor Proxy with Docker"
 date: 2020-07-05T15:45:06+05:30
 tags: ["tor", "docker", "opsec", "privacy"]
+target: https://nabarun.dev/posts/running-tor-proxy-with-docker/
 ---
 
 Today I was testing [dns-tor-proxy][dns-tor-proxy] which required a SOCKS5 Tor proxy and realized I never ran a Tor service on my current machine. I use [Tor browser][tor-browser] almost daily for browsing websites I have absolutely no trust on, but not the standalone Tor proxy. In this article, I will try to set one up using the system package as well as inside a Docker container.

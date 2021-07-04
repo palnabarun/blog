@@ -4,6 +4,7 @@ date: 2020-09-10T08:58:41+05:30
 description: "My learnings from working on the Kubernetes Release Team and leading the enhancements vertical"
 tags: ["kubernetes", "open-source", "community"]
 series: ["kubernetes-upstream"]
+target: https://nabarun.dev/posts/kubernetes-release-team-journey-pt1/
 ---
 
 During this period last year, I got interested in how a new Kubernetes version is released and what goes on behind it. After some searching, I found that all of the process and the roles are well documented in the [Release Team Role Handbooks][rt-handbooks].

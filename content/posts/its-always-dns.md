@@ -2,6 +2,7 @@
 title: "It's always DNS!"
 date: 2020-06-30
 tags: ["devops", "kubernetes", "coredns", "kind", "debugging", "dns"]
+target: https://nabarun.dev/posts/its-always-dns/
 ---
 
 ### Context

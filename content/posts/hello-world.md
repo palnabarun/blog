@@ -2,6 +2,7 @@
 title: "Hello World"
 date: 2020-06-20
 tags: ["random"]
+target: https://nabarun.dev/posts/hello-world
 ---
 
 It has been some time (a long time, in reality :weary:) that I wanted to start writing blogs about things that I learn and implement.
